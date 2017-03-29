@@ -1,0 +1,11 @@
+{
+    "name": "telegram-haruue-bot",
+    "version": "0.1.0",
+    "description": "Telegram Haruue Bot, Refactor in JavaScript",
+    "dependencies": {
+        "node-telegram-bot-api": "~0.27.0"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
