@@ -1,0 +1,10 @@
+deb http://mirrors.cqupt.edu.cn/${os}/ ${version} main restricted universe multiverse  
+deb http://mirrors.cqupt.edu.cn/${os}/ ${version}-security main restricted universe multiverse  
+deb http://mirrors.cqupt.edu.cn/${os}/ ${version}-updates main restricted universe multiverse  
+deb http://mirrors.cqupt.edu.cn/${os}/ ${version}-proposed main restricted universe multiverse  
+deb http://mirrors.cqupt.edu.cn/${os}/ ${version}-backports main restricted universe multiverse  
+deb-src http://mirrors.cqupt.edu.cn/${os}/ ${version} main restricted universe multiverse  
+deb-src http://mirrors.cqupt.edu.cn/${os}/ ${version}-security main restricted universe multiverse  
+deb-src http://mirrors.cqupt.edu.cn/${os}/ ${version}-updates main restricted universe multiverse  
+deb-src http://mirrors.cqupt.edu.cn/${os}/ ${version}-proposed main restricted universe multiverse  
+deb-src http://mirrors.cqupt.edu.cn/${os}/ ${version}-backports main restricted universe multiverse
