@@ -1,8 +1,8 @@
 # telegram-haruue-bot
-用 NodeJS 重写的 [@haruue\_bot](t.me/haruue_bot)
+用 NodeJS 重写的 [@haruue\_bot](https://t.me/haruue_bot)
 
 ## 使用方法
-1. 向 [@BotFather](t.me/BotFather) 申请一个机器人帐号。
+1. 向 [@BotFather](https://t.me/BotFather) 申请一个机器人帐号。
 2. 将 `config.example.js` 复制为 `config.js`，填入你机器人的信息。
 3. `npm install`
 4. `node main.js`
