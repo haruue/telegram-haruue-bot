@@ -13,6 +13,7 @@ require('./lib/handler/cquptlife.js').attachTo(bot);
 require('./lib/handler/mirrors.js').attachTo(bot);
 require('./lib/handler/pia.js').attachTo(bot);
 require('./lib/handler/eval.js').attachTo(bot);
+require('./lib/handler/html.js').attachTo(bot);
 
 // Listen for any kind of message. There are different kinds of
 // messages.
