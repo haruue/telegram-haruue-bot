@@ -1,0 +1,2 @@
+deb http://mirrors.cqupt.edu.cn/debian/ sid main contrib non-free
+deb-src http://mirrors.cqupt.edu.cn/debian/ sid main contrib non-free
