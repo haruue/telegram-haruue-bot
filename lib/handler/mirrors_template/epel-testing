@@ -1,6 +1,6 @@
 [epel-testing]
 name=Extra Packages for Enterprise Linux ${version} - Testing - $basearch
-baseurl=http://mirrors.cqupt.edu.cn/epel/testing/${version}/$basearch
+baseurl=https://cquptmirror.com/epel/testing/${version}/$basearch
 #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=testing-epel${version}&arch=$basearch
 failovermethod=priority
 enabled=0
@@ -9,7 +9,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-${version}
 
 [epel-testing-debuginfo]
 name=Extra Packages for Enterprise Linux ${version} - Testing - $basearch - Debug
-baseurl=http://mirrors.cqupt.edu.cn/epel/testing/${version}/$basearch/debug
+baseurl=https://cquptmirror.com/epel/testing/${version}/$basearch/debug
 #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=testing-debug-epel${version}&arch=$basearch
 failovermethod=priority
 enabled=0
@@ -18,7 +18,7 @@ gpgcheck=1
 
 [epel-testing-source]
 name=Extra Packages for Enterprise Linux ${version} - Testing - $basearch - Source
-baseurl=http://mirrors.cqupt.edu.cn/epel/testing/${version}/SRPMS
+baseurl=https://cquptmirror.com/epel/testing/${version}/SRPMS
 #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=testing-source-epel${version}&arch=$basearch
 failovermethod=priority
 enabled=0

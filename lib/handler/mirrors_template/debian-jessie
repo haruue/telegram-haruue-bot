@@ -1,11 +1,11 @@
-deb http://mirrors.cqupt.edu.cn/debian/ jessie main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian/ jessie main contrib non-free
+deb https://cquptmirror.com/debian/ jessie main contrib non-free
+#deb-src https://cquptmirror.com/debian/ jessie main contrib non-free
 
-deb http://mirrors.cqupt.edu.cn/debian/ jessie-updates main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian/ jessie-updates main contrib non-free
+deb https://cquptmirror.com/debian/ jessie-updates main contrib non-free
+#deb-src https://cquptmirror.com/debian/ jessie-updates main contrib non-free
 
-deb http://mirrors.cqupt.edu.cn/debian/ jessie-backports main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian/ jessie-backports main contrib non-free
+deb https://cquptmirror.com/debian/ jessie-backports main contrib non-free
+#deb-src https://cquptmirror.com/debian/ jessie-backports main contrib non-free
 
-deb http://mirrors.cqupt.edu.cn/debian-security/ jessie/updates main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian-security/ jessie/updates main contrib non-free
+deb https://cquptmirror.com/debian-security/ jessie/updates main contrib non-free
+#deb-src https://cquptmirror.com/debian-security/ jessie/updates main contrib non-free

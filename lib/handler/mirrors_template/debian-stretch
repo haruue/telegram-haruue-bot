@@ -1,8 +1,8 @@
-deb http://mirrors.cqupt.edu.cn/debian/ stretch main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian/ stretch main contrib non-free
+deb https://cquptmirror.com/debian/ stretch main contrib non-free
+#deb-src https://cquptmirror.com/debian/ stretch main contrib non-free
 
-deb http://mirrors.cqupt.edu.cn/debian/ stretch-updates main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian/ stretch-updates main contrib non-free
+deb https://cquptmirror.com/debian/ stretch-updates main contrib non-free
+#deb-src https://cquptmirror.com/debian/ stretch-updates main contrib non-free
 
-deb http://mirrors.cqupt.edu.cn/debian-security/ stretch/updates main contrib non-free
-deb-src http://mirrors.cqupt.edu.cn/debian-security/ stretch/updates main contrib non-free
+deb https://cquptmirror.com/debian-security/ stretch/updates main contrib non-free
+#deb-src https://cquptmirror.com/debian-security/ stretch/updates main contrib non-free
