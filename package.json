@@ -6,6 +6,9 @@
     "node-telegram-bot-api": "~0.27.0",
     "request": "^2.81.0"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": ">=0.10.0"
   }
